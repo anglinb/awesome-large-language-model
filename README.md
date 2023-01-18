@@ -12,7 +12,7 @@ Curating the best langue models and tools, inspired by [awesome-python](https://
 ### Tools
  
 - [Lang Chain](https://github.com/hwchase17/langchain) Used to compose models & APIs to answer questions with outside knowledge
-- [GPT-Index](https://github.com/jerryjliu/gpt_index)
+- [GPT-Index](https://github.com/jerryjliu/gpt_index) Used to index external data for access by GPT
 
 ### Learning Resources 
 
